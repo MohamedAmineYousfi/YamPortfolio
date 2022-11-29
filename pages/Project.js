@@ -233,7 +233,11 @@ const Projects = () => {
   <form class="flex-auto p-6 w-12 hover:animate-pulse">
     <div class="flex flex-wrap items-baseline">
       <h1 class="w-full flex-none mb-3 text-2xl leading-none text-slate-900">
+<<<<<<< HEAD
         Fithub Web
+=======
+        Fithub Dash
+>>>>>>> 1fbb49e16bcc0883c6819c7957f6f458f793f59c
       </h1>
       <div class="flex-auto text-lg font-medium text-slate-500">
        Web Site
@@ -298,13 +302,22 @@ const Projects = () => {
 </div> 
 
 <div class="flex font-serif bg-indigo-200 rounded-lg">
+<<<<<<< HEAD
   <div class="flex-none w-60 relative focus:touch-pan-x">
     <img src="moneyhuescreen.jpg" alt="" class="absolute inset-0 w-full h-full object-cover   hover:animate-pulse rounded-lg" />
+=======
+  <div class="flex-none w-64 relative focus:touch-pan-x">
+    <img src="moneyhuescreen.png" alt="" class="absolute inset-0 w-full h-full object-cover   hover:animate-pulse rounded-lg" />
+>>>>>>> 1fbb49e16bcc0883c6819c7957f6f458f793f59c
   </div>
   <form class="flex-auto p-6  w-12 hover:animate-pulse">
     <div class="flex flex-wrap items-baseline">
       <h1 class="w-full flex-none mb-3 text-2xl leading-none text-slate-900">
+<<<<<<< HEAD
         Money Hue 
+=======
+        Money Hue Dash
+>>>>>>> 1fbb49e16bcc0883c6819c7957f6f458f793f59c
       </h1>
       <div class="flex-auto text-lg font-medium text-slate-500">
        Web Site
@@ -369,8 +382,13 @@ const Projects = () => {
 </div> 
 
 <div class="flex font-serif bg-indigo-200 rounded-lg">
+<<<<<<< HEAD
   <div class="flex-none w-60 relative focus:touch-pan-x">
     <img src="pcdrivescreen.jpg" alt="" class="absolute inset-0 w-full h-full object-cover   hover:animate-pulse rounded-lg" />
+=======
+  <div class="flex-none w-64 relative focus:touch-pan-x">
+    <img src="pcdrivescreen.png" alt="" class="absolute inset-0 w-full h-full object-cover   hover:animate-pulse rounded-lg" />
+>>>>>>> 1fbb49e16bcc0883c6819c7957f6f458f793f59c
   </div>
   <form class="flex-auto p-6 w-12 hover:animate-pulse">
     <div class="flex flex-wrap items-baseline">
